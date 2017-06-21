@@ -16,4 +16,4 @@ git clone https://github.com/dkodotcom/alpha-tabs.git
 2. Go to Settings in Chrome -> Extensions in Chrome
 3. Check "Developer Mode" in upper right
 4. Click "Load unpacked extension" button and open your alpha-tabs directory
-5. Click the "sort" button and watch the magic happen
+5. Click the "sort" icon top right of browser and watch the magic happen, yay!
