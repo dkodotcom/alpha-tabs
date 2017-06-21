@@ -10,7 +10,9 @@ Check out the open issues :D
 
 ## Developing 
 
-1. Clone alpha-tabs
+```
+git clone alpha-tabs
+```
 2. Go to Settings in Chrome -> Extensions in Chrome
 3. Check "Developer Mode" in upper right
 4. Click "Load unpacked extension" button and open your alpha-tabs directory
