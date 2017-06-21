@@ -1,0 +1,29 @@
+{
+    "manifest_version": 2,
+
+    "name": "alphaTabs",
+    "description": "helps sort open tabs, alphabetically",
+    "version": "1.2",
+
+    "permissions": [
+        "tabs",
+        "chrome://favicon/"
+    ],
+    "browser_action": {
+        "default_icon": "icon128.png",
+        "name": "Click to sort tabs alphabetically"
+    },
+
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": false
+    }
+}
