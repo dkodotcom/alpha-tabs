@@ -11,7 +11,7 @@ Check out the open issues :D
 ## Developing 
 
 ```
-git clone alpha-tabs
+git clone https://github.com/dkodotcom/alpha-tabs.git
 ```
 2. Go to Settings in Chrome -> Extensions in Chrome
 3. Check "Developer Mode" in upper right
