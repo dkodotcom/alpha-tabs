@@ -10,8 +10,8 @@ Check out the open issues :D
 
 ## Developing 
 
-Clone alpha-tabs
-Go to Settings in Chrome -> Extensions in Chrome
-Check "Developer Mode" in upper right
-Click "Load unpacked extension" button and open your alpha-tabs directory
-Click the "sort" button and watch the magic happen 
+1. Clone alpha-tabs
+2. Go to Settings in Chrome -> Extensions in Chrome
+3. Check "Developer Mode" in upper right
+4. Click "Load unpacked extension" button and open your alpha-tabs directory
+5. Click the "sort" button and watch the magic happen
