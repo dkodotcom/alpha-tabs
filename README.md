@@ -2,7 +2,7 @@
 
 ## About
 
-Have you ever found yourself with multiple windows, each window with so many tabs open, you don't even see the icon? As a junior dev, I had a million things up on queue to learn- so many tabs that served me as a reminder. This is a chrome extension to sort your tabs alphabetically. This project was inspired by Nagisa Day, a friend who also helped mentor me with this project, to create a fun and efficient way to stay organized :)
+This is a chrome extension to sort your tabs alphabetically. This project was inspired by Nagisa Day, a friend who also helped mentor me with this project, to create a fun and efficient way to stay organized :)
 
 ## In Progress
 
