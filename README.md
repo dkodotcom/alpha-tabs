@@ -2,7 +2,7 @@
 
 ## About
 
-This is a chrome extension to sort your tabs alphabetically. This project was inspired by Nagisa Day, a friend who also helped mentor me with this project, to create a fun and efficient way to stay organized :)
+This is a chrome extension to sort your tabs alphabetically. This project was inspired by Nagisa Day, a friend who also helped mentor me, to create a fun and efficient way to stay organized :)
 
 ## In Progress
 
